@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(223, 240, 230);
+}
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 65px;
+    text-align: center;
+    color: rgb(128, 226, 62);
+    margin: auto;
+}
+#recipe {
+    display: inline;
+}
+a {
+    font-size: 23px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: 700;
+    width: 30%;
+    margin: 20px;
+    background-color: rgb(147, 248, 252);
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
