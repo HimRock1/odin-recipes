@@ -1,0 +1,40 @@
+body{
+    background-color: beige;
+}
+.header{
+    font-size: 60px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-weight: 900;
+}
+.image{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 500px;
+    padding: 50px;
+}
+.head-01{
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+    text-align: left;
+    font-weight: 500;
+    color: rgb(47, 73, 4);
+}
+p{
+    font-size: 22px;
+}
+ul{
+    font-size: 20px;
+}
+.steps{
+    font-family: 'Libre Baskerville', serif;
+}
+.footers{
+    text-transform: uppercase;
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+
