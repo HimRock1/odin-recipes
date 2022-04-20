@@ -8,20 +8,24 @@ h1 {
     color: rgb(128, 226, 62);
     margin: auto;
 }
-button{
+.button-01,.button-02,.button-03{
     background-color: rgb(223, 142, 76);
     font-size: 23px;
     font-family: "Lucida Console", "Courier New", monospace;
     font-weight: 900;
-    border: 10px;
-    padding: 10px 5px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
-    margin: 20px 10px;
+    display: inline !important;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 40px;
     cursor: pointer;
-    color: white;
+    width: 300px;
+    height: 150px;
 
+}
+.button-01{
+    margin-left: 170px;
 }
 .image{
     display: block;
